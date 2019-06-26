@@ -1,0 +1,38 @@
+.eva-icon{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.arrow-ios-forward-outline{
+    background-image: url(./arrow-ios-forward-outline.png)
+}
+.arrow-ios-downward-outline{
+    background-image: url(./arrow-ios-downward-outline.png)
+}
+
+.close-outline{
+    background-image: url(./close-outline.png)
+}
+.smartphone-outline{
+    background-image: url(./smartphone-outline.png)
+}
+.headphones-outline{
+    background-image: url(./headphones-outline.png)
+}
+.image-outline{
+    background-image: url(./image-outline.png)
+}
+.play-circle-outline{
+    background-image: url(./play-circle-outline.png)
+}
+.video-outline{
+    background-image: url(./video-outline.png)
+}
+.person-outline{
+    background-image: url(./person-outline.png)
+}
+.user-outline{
+    background-image: url(./user-outline.png)
+}
+.lock-outline{
+    background-image: url(./lock-outline.png)
+}
